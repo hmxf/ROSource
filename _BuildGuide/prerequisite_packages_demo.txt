@@ -1,0 +1,4 @@
+- tar:
+    local-name: serial
+    uri: https://github.com/wjwwood/serial-release/archive/release/noetic/serial/1.2.1-1.tar.gz
+    version: serial-release-release-noetic-serial-1.2.1-1
