@@ -528,84 +528,84 @@
     version: ros-release-release-noetic-rosunit-1.15.8-1
 - tar:
     local-name: ros_comm/message_filters
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/message_filters/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-message_filters-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/message_filters/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-message_filters-1.17.0-1
 - tar:
     local-name: ros_comm/ros_comm
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/ros_comm/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-ros_comm-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/ros_comm/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-ros_comm-1.17.0-1
 - tar:
     local-name: ros_comm/rosbag
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosbag/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-rosbag-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosbag/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-rosbag-1.17.0-1
 - tar:
     local-name: ros_comm/rosbag_storage
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosbag_storage/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-rosbag_storage-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosbag_storage/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-rosbag_storage-1.17.0-1
 - tar:
     local-name: ros_comm/roscpp
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/roscpp/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-roscpp-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/roscpp/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-roscpp-1.17.0-1
 - tar:
     local-name: ros_comm/rosgraph
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosgraph/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-rosgraph-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosgraph/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-rosgraph-1.17.0-1
 - tar:
     local-name: ros_comm/roslaunch
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/roslaunch/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-roslaunch-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/roslaunch/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-roslaunch-1.17.0-1
 - tar:
     local-name: ros_comm/roslz4
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/roslz4/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-roslz4-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/roslz4/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-roslz4-1.17.0-1
 - tar:
     local-name: ros_comm/rosmaster
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosmaster/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-rosmaster-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosmaster/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-rosmaster-1.17.0-1
 - tar:
     local-name: ros_comm/rosmsg
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosmsg/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-rosmsg-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosmsg/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-rosmsg-1.17.0-1
 - tar:
     local-name: ros_comm/rosnode
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosnode/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-rosnode-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosnode/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-rosnode-1.17.0-1
 - tar:
     local-name: ros_comm/rosout
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosout/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-rosout-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosout/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-rosout-1.17.0-1
 - tar:
     local-name: ros_comm/rosparam
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosparam/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-rosparam-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosparam/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-rosparam-1.17.0-1
 - tar:
     local-name: ros_comm/rospy
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rospy/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-rospy-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rospy/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-rospy-1.17.0-1
 - tar:
     local-name: ros_comm/rosservice
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosservice/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-rosservice-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rosservice/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-rosservice-1.17.0-1
 - tar:
     local-name: ros_comm/rostest
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rostest/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-rostest-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rostest/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-rostest-1.17.0-1
 - tar:
     local-name: ros_comm/rostopic
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rostopic/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-rostopic-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/rostopic/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-rostopic-1.17.0-1
 - tar:
     local-name: ros_comm/roswtf
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/roswtf/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-roswtf-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/roswtf/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-roswtf-1.17.0-1
 - tar:
     local-name: ros_comm/topic_tools
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/topic_tools/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-topic_tools-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/topic_tools/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-topic_tools-1.17.0-1
 - tar:
     local-name: ros_comm/xmlrpcpp
-    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/xmlrpcpp/1.16.0-1.tar.gz
-    version: ros_comm-release-release-noetic-xmlrpcpp-1.16.0-1
+    uri: https://github.com/ros-gbp/ros_comm-release/archive/release/noetic/xmlrpcpp/1.17.0-1.tar.gz
+    version: ros_comm-release-release-noetic-xmlrpcpp-1.17.0-1
 - tar:
     local-name: ros_comm_msgs/rosgraph_msgs
     uri: https://github.com/ros-gbp/ros_comm_msgs-release/archive/release/noetic/rosgraph_msgs/1.11.3-1.tar.gz

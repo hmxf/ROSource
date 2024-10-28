@@ -4,7 +4,7 @@
 
 ## 预配置系统环境
 
-- 将默认 `ubuntu-ports` 源替换为清华源
+- 将默认 `ubuntu-ports` 源替换为清华源，如果系统并非 `aarch64` 架构，请自行修改
 
     ```bash
     sudo mv /etc/apt/sources.list /etc/apt/sources.list.bak
